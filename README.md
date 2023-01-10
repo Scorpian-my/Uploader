@@ -6,7 +6,7 @@
 ```
 apt update && apt upgrade -y
 ```
-<hr>
+<hr color="red">
 
 #2 step
 ```
