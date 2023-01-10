@@ -3,7 +3,8 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<img style="display: block;margin-left: auto;margin-right: auto; width: 15%;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="15%" title="Python" alt="Python">
+<center><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="centered image" height="50px" width="50px"> </center>
+
 
 #1 step
 ```
