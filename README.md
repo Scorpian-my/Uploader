@@ -2,9 +2,6 @@
 
 
 
-<center> <a href="https://www.coffeebede.com/scorpian"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a> </center>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 
 
 
