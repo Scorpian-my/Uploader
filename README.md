@@ -9,6 +9,7 @@
             src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 
+ <h2><b>install in Linux</b></h2>
  
 
 #1 step
