@@ -9,7 +9,7 @@
             src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Scorpian-my&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+<p> [![GitHub Streak](https://streak-stats.demolab.com?user=Scorpian-my&theme=nightowl&hide_border=true)](https://git.io/streak-stats)</p>
 
 #1 step
 
