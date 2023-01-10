@@ -4,13 +4,3 @@
 
 
 
-#1 step
-```
-apt update && apt upgrade -y
-```
-<hr>
-
-#2 step
-```
-git clone https://github.com/Scorpian-my/Uploader
-```
