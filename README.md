@@ -6,7 +6,7 @@
 
 <hr>
 
-<a href="https://www.coffeebede.com/scorpian"><img width="1em" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://www.coffeebede.com/scorpian"><img width="100px" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 #1 step
 
