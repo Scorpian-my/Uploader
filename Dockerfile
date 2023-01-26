@@ -6,4 +6,4 @@ COPY . /app/
 
 RUN pip install --upgrade pip && pip install rubpy
 
-RUN python bot.py
+RUN python3 bot.py
